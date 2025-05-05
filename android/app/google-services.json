@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143593501299",
+    "project_id": "learnvocabularyflutter",
+    "storage_bucket": "learnvocabularyflutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143593501299:android:6cef30e7e71195194bf006",
+        "android_client_info": {
+          "package_name": "com.example.learnvocabulary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXREe_AmeQHoFRxGEwuucnSQImwRSx8-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
