@@ -14,3 +14,9 @@ Khu vực: Phòng ngủ
 - Hiển thị danh sách từ vựng theo từng khu vực
 - Chế độ trắc nghiệm (Quiz) giúp luyện tập từ vựng theo từng khu vực
 - Không cần đăng nhập, dữ liệu được lưu và đồng bộ tự động qua Firebase
+
+## Danh mục ảnh
+
+![Màn hình Home](images/list.jpg)
+![Danh sách từ vựng](images/vocabulary.jpg)
+![Màn hình Quiz](images/quiz.jpg)
