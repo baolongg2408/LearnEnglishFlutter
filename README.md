@@ -17,6 +17,8 @@ Khu vực: Phòng ngủ
 
 ## Danh mục ảnh
 
-![Màn hình Home](images/list.jpg)
-![Danh sách từ vựng](images/vocabulary.jpg)
-![Màn hình Quiz](images/quiz.jpg)
+<p align="center">
+  <img src="images/list.jpg" alt="Màn hình Home" width="250">
+  <img src="images/vocabulary.jpg" alt="Danh sách từ vựng" width="250">
+  <img src="images/quiz.jpg" alt="Màn hình Quiz" width="250">
+</p>
